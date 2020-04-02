@@ -1,0 +1,3 @@
+C:\projects\MyThirdConsoleApp\obj\Debug\netcoreapp3.1\MyThirdConsoleApp.csprojAssemblyReference.cache
+C:\projects\MyThirdConsoleApp\obj\Debug\netcoreapp3.1\MyThirdConsoleApp.AssemblyInfoInputs.cache
+C:\projects\MyThirdConsoleApp\obj\Debug\netcoreapp3.1\MyThirdConsoleApp.AssemblyInfo.cs
